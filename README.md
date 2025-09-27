@@ -1,7 +1,7 @@
 # Task4-Notes-App
 A Java Notes Application using File Handling.
 
-#What I Did
+# What I Did
 
 - Used FileWriter to write notes to a file (notes.txt)
 
